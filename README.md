@@ -45,7 +45,7 @@ Make sure you have these installed on your computer:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/Tehan1510/JobBoard.git
+git clone https://github.com/Piyushshuklapandit/JobBoard.git
 cd JobBoard
 ```
 
